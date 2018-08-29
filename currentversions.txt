@@ -1,0 +1,8 @@
+This is created by Larry Geller to document the versions of the Drupal and
+CiviCRM software.  It is updated whenever either of these versions is upgraded.
+6/15/18   Drupal is at 7.59 security patch level
+          CiviCRM is at 5.2.1 which is still same as 4.x.x
+Only these two pieces of software reside in /var/www/thecmg.info
+(Currently staging.thecmg.info and test.thecmg.info are not used)
+Staging can be used for testing and those instructions are in GR doc that I
+have online as written by Peter Haight from Giant Rabbit.  
